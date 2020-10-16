@@ -1254,7 +1254,7 @@ a {
 .cid-s8LLP1XYwI {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-color: #dad6d6;
+  background-color: #d4d4d4;
 }
 .cid-s8LLP1XYwI H1 {
   color: #fbbd2e;
@@ -1398,7 +1398,7 @@ a {
   transform: translate(-50%) scale(2, 1.6);
 }
 .cid-s8MgIGtYDj #e2_shape {
-  fill: #000000 !important;
+  fill: #dad6d6 !important;
 }
 .cid-s8MgIGtYDj img {
   border-radius: 0px;
@@ -1415,7 +1415,7 @@ a {
 }
 .cid-s8MgIGtYDj H2 {
   text-align: center;
-  color: #fbbd2e;
+  color: #f49846;
 }
 .cid-s8MgIGtYDj .mbr-text,
 .cid-s8MgIGtYDj .mbr-section-btn {
@@ -1423,7 +1423,7 @@ a {
   color: #ffffff;
 }
 .cid-s8MgIGtYDj h2 {
-  background: linear-gradient(to left, #fbbd2e, currentColor);
+  background: linear-gradient(to left, #db6711, currentColor);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1433,7 +1433,7 @@ a {
 .cid-s1YQ6E1SFC {
   padding-top: 15px;
   padding-bottom: 60px;
-  background-color: #000000;
+  background-color: #dad6d6;
 }
 .cid-s1YQ6E1SFC .line {
   width: 55px;
@@ -1444,7 +1444,7 @@ a {
 }
 .cid-s1YQ6E1SFC .mbr-text,
 .cid-s1YQ6E1SFC .mbr-section-btn {
-  color: #ffffff;
+  color: #000;
 }
 .cid-s1YQ6E1SFC img {
   width: 100%;
@@ -1456,20 +1456,20 @@ a {
 }
 .cid-s1YQ6E1SFC .mbr-section-title,
 .cid-s1YQ6E1SFC .title-wrapper {
-  color: #fbbd2e;
+  color: #6d500c;
 }
 .cid-s1YQ6E1SFC h2 {
-  background: linear-gradient(to left, #db6711, currentColor);
+  background: linear-gradient(to left, #191713, currentColor);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .cid-s8NDAEKvyt {
   padding-top: 15px;
   padding-bottom: 60px;
-  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.562);
 }
 .cid-s8NDAEKvyt h3 {
-  background: linear-gradient(to left, #db6711, currentColor);
+  background: linear-gradient(to left, #fbbd2e, currentColor);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1488,7 +1488,7 @@ a {
 .cid-s8dfAyiiE5 {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-color: #171419;
+  background-color: #dad6d6;
 }
 .cid-s8dfAyiiE5 .mbr-iconfont {
   color: #fc5130;
@@ -1546,7 +1546,7 @@ a {
 .cid-s8dfAyiiE5 .mbr-section-title {
   margin: 0 auto;
   margin-bottom: 2rem;
-  color: #fbbd2e;
+  color: #000;
   text-align: center;
 }
 .cid-s8dfAyiiE5 .status {
@@ -1554,7 +1554,7 @@ a {
   text-align: left;
 }
 .cid-s8dfAyiiE5 h2 {
-  background: linear-gradient(to left, #db6711, currentColor);
+  background: linear-gradient(to left, #000, currentColor);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
