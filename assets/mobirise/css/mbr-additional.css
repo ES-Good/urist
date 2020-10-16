@@ -1561,7 +1561,7 @@ a {
 .cid-s9eEbX6nFI {
   padding-top: 75px;
   padding-bottom: 90px;
-  background-color: #171419;
+  background-color: #fff;
 }
 .cid-s9eEbX6nFI .mbr-overlay {
   background-color: #ffffff;
@@ -1588,7 +1588,7 @@ a {
 .cid-s9eEbX6nFI .form-control,
 .cid-s9eEbX6nFI .field-input {
   padding: 1rem;
-  background-color: #191919;
+  /* background-color: #191919; */
   border-color: #fbbd2e;
   color: #fbbd2e;
   transition: 0.4s;
@@ -1611,9 +1611,9 @@ a {
 .cid-s9eEbX6nFI .field-input:hover,
 .cid-s9eEbX6nFI .form-control:focus,
 .cid-s9eEbX6nFI .field-input:focus {
-  background-color: #191919;
+  background-color: rgba(0, 0, 0, 0.034);
   border-color: #db6711;
-  color: #ffffff;
+  color: #000;
   box-shadow: none;
   outline: none;
 }
@@ -1689,11 +1689,11 @@ a {
 }
 .cid-s9eEbX6nFI H4 {
   text-align: center;
-  color: #fbbd2e;
+  color: #000;
 }
 .cid-s9eEbX6nFI P {
   text-align: center;
-  color: #ffffff;
+  color: #000;
 }
 @media (max-width: 767px) {
   .cid-s9eEbX6nFI .col {
@@ -1704,7 +1704,7 @@ a {
   }
 }
 .cid-s9eEbX6nFI h4 {
-  background: linear-gradient(to left, #db6711, currentColor);
+  background: linear-gradient(to left, #000, currentColor);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
