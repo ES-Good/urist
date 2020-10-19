@@ -871,12 +871,12 @@ a {
   text-align: center;
 }
 .cid-s8Xi5Dhu4k h1 {
-  background: linear-gradient(to left, #fff, currentColor);
+  background: linear-gradient(to left, #db6711, currentColor);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .cid-s8Xi5Dhu4k .mbr-section-title {
-  color: #fff;
+  color: #fbbd2e;
 }
 .cid-s1YNw91RvB .dropdown-item:before {
   font-family: MobiriseIcons !important;
@@ -6459,7 +6459,7 @@ a {
 .cid-s9e7Bl022i {
   padding-top: 75px;
   padding-bottom: 0px;
-  background-color: #171419;
+  background-color: #F2F2F2;
 }
 .cid-s9e7Bl022i .line {
   width: 55px;
@@ -6470,13 +6470,13 @@ a {
 }
 .cid-s9e7Bl022i .mbr-text,
 .cid-s9e7Bl022i .mbr-section-btn {
-  color: #ffffff;
+  color: #000;
   text-align: left;
 }
 .cid-s9e7BlYLRT {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #171419;
+  background-color: #F2F2F2;
 }
 .cid-s9e7BlYLRT .row-element,
 .cid-s9e7BlYLRT .image-element {
@@ -6508,7 +6508,7 @@ a {
 }
 .cid-s9e7BlYLRT .mbr-text,
 .cid-s9e7BlYLRT .mbr-section-btn {
-  color: #ffffff;
+  color: #000;
 }
 .cid-s9e7BlYLRT .mbr-title {
   color: #e96188;
@@ -6516,7 +6516,7 @@ a {
 .cid-s9eghTz47Y {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #171419;
+  background-color: #F2F2F2;
 }
 @media (max-width: 768px) {
   .cid-s9eghTz47Y .mbr-text,
@@ -6531,7 +6531,7 @@ a {
 .cid-s9e7BlAfM7 {
   padding-top: 0px;
   padding-bottom: 15px;
-  background-color: #171419;
+  background-color: #F2F2F2;
 }
 .cid-s9e7BlAfM7 .mbr-text {
   color: #ffffff;
@@ -6575,7 +6575,8 @@ a {
 .cid-s9eEfQHFh5 {
   padding-top: 75px;
   padding-bottom: 90px;
-  background-color: #171419;
+  background-color: #fff;
+  box-shadow: 0 -10px 10px #b9b9b9;
 }
 .cid-s9eEfQHFh5 .mbr-overlay {
   background-color: #ffffff;
@@ -6602,7 +6603,7 @@ a {
 .cid-s9eEfQHFh5 .form-control,
 .cid-s9eEfQHFh5 .field-input {
   padding: 1rem;
-  background-color: #191919;
+  /* background-color: #191919; */
   border-color: #fbbd2e;
   color: #fbbd2e;
   transition: 0.4s;
@@ -6625,9 +6626,9 @@ a {
 .cid-s9eEfQHFh5 .field-input:hover,
 .cid-s9eEfQHFh5 .form-control:focus,
 .cid-s9eEfQHFh5 .field-input:focus {
-  background-color: #191919;
+  background-color: rgba(0, 0, 0, 0.034);
   border-color: #db6711;
-  color: #ffffff;
+  color: #000;
   box-shadow: none;
   outline: none;
 }
