@@ -867,16 +867,16 @@ a {
 }
 .cid-s8Xi5Dhu4k .form-subtitle,
 .cid-s8Xi5Dhu4k input.field {
-  color: #ffffff;
+  color: #fff;
   text-align: center;
 }
 .cid-s8Xi5Dhu4k h1 {
-  background: linear-gradient(to left, #fbbd2e, currentColor);
+  background: linear-gradient(to left, #fff, currentColor);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .cid-s8Xi5Dhu4k .mbr-section-title {
-  color: #fbbd2e;
+  color: #fff;
 }
 .cid-s1YNw91RvB .dropdown-item:before {
   font-family: MobiriseIcons !important;
